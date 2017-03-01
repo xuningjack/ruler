@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="verticallinebgcolor">#959595</color>
+   	<!-- 主页背景色(黑色#222222) -->
+	<color name="background_color">#FF111111</color>
+</resources>
